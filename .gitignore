@@ -8,7 +8,6 @@
 *.dol
 *.map
 config.log
-/retroarch
 /retroarch.*
 /config.h
 /config.mk
